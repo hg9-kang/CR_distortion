@@ -1,4 +1,4 @@
-# Consistency Regularization for Distortion-Robust Image Classification in Industrial Machine Vision
+# DisCO: Disotortion-aware COnsistency regularization
 
 Official implementation of the paper: **"Consistency regularization for distortion-robust image classification in industrial machine vision"**
 
